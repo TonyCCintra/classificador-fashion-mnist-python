@@ -4,13 +4,13 @@ Este projeto implementa um classificador de imagens de vestuário utilizando o d
 
 ## Como executar
 
-O código deste projeto está disponível em um Jupyter Notebook do Google Colab: [link para o seu notebook dio_primeiro_projeto_ia.ipynb aqui]
+O código deste projeto está disponível em um Jupyter Notebook do Google Colab: [coloque aqui o link para o seu notebook dio_primeiro_projeto_ia.ipynb]
 
 Você pode abrir este link no seu navegador para visualizar e executar o código diretamente no ambiente Colab, sem a necessidade de instalação de bibliotecas localmente.
 
 ## Guia Completo
 
-Um guia passo a passo detalhado sobre a construção deste projeto, desde a configuração do ambiente até a avaliação do modelo, pode ser encontrado [aqui você pode colocar um link para o seu artigo na DIO ou um arquivo ebook.md que você criar no repositório].
+Um guia passo a passo detalhado sobre a construção deste projeto, desde a configuração do ambiente até a avaliação do modelo, pode ser encontrado no [ebook.md](ebook.md).
 
 ## Contribuições
 
