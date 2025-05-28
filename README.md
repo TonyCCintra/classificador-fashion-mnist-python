@@ -4,7 +4,7 @@ Este projeto implementa um classificador de imagens de vestuário utilizando o d
 
 ## Como executar
 
-O código deste projeto está disponível em um Jupyter Notebook do Google Colab: [coloque aqui o link para o seu notebook dio_primeiro_projeto_ia.ipynb]
+O código deste projeto está disponível em um Jupyter Notebook do Google Colab: [https://github.com/TonyCCintra/classificador-fashion-mnist-python/blob/main/dio_primeiro_projeto_ia.ipynb]
 
 Você pode abrir este link no seu navegador para visualizar e executar o código diretamente no ambiente Colab, sem a necessidade de instalação de bibliotecas localmente.
 
